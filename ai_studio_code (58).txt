@@ -1,0 +1,31 @@
+{
+  "low": [
+    "GPT-5 mini",
+    "Grok Code Fast 1",
+    "Gemini 3 Flash",
+    "Claude Haiku 4.5"
+  ],
+  "mid": [
+    "GPT-5",
+    "GPT-5.1",
+    "GPT-5.2",
+    "GPT-4.1",
+    "GPT-4o",
+    "GPT-4o-mini",
+    "Claude Sonnet 4",
+    "Claude Sonnet 4.5",
+    "Gemini 3 Standard"
+  ],
+  "high": [
+    "GPT-5.1-Codex-Max",
+    "Claude Opus 4.5",
+    "Gemini 3 Pro",
+    "GPT-4.5"
+  ],
+  "local": [
+    "DeepSeek-Coder-V2",
+    "Command R+",
+    "Llama-3.1-70B",
+    "Mixtral-8x22B"
+  ]
+}

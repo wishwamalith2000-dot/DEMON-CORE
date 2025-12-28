@@ -1,0 +1,5 @@
+├── docs/           # System prompts, doctrine, injection templates
+├── src/
+│   ├── orchestrator/   # Core routing, validation, anonymization
+│   ├── providers/      # Model adapters (OpenAI, Anthropic, Google, xAI)
+│   └── index.ts        # Entry point

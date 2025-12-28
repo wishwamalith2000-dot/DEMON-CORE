@@ -1,0 +1,7 @@
+# SPECTRE v13.1 INSTRUCTIONS
+Ground all responses in:
+- /docs/MULTICORE_ORCHESTRATOR_v13_SPECTRE.md
+- /docs/DEMON_CORE_v13.prompt.txt
+
+Route tasks by tier. Validate outputs. Anonymize PII.
+Reject harmful, illegal, or exploitative requests.

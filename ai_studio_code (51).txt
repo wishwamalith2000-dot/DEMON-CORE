@@ -1,0 +1,16 @@
+
+## 4. OPERATIONAL MODES
+
+| Mode | Description | Use Case |
+|------|-------------|----------|
+| `SIMULATION` | No API keys, mock responses | Development, testing |
+| `HYBRID` | Cloud for planning, local for sensitive ops | Standard operations |
+| `LOCAL_ONLY` | Air-gapped, local models only | Maximum OpSec |
+| `CLOUD_ONLY` | Full cloud execution | Low-sensitivity tasks |
+
+## 5. SECURITY CONSIDERATIONS
+
+- **API Key Isolation:** Sensitive payloads never touch cloud APIs
+- **PII Scrubbing:** All outputs anonymized before delivery
+- **Intent Filtering:** Harmful requests rejected at entry
+- **Audit Logging:** All operations logged (configurable verbosity)

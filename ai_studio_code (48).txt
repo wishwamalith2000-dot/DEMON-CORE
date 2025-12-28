@@ -1,0 +1,29 @@
+# DΞMON CORE ORCHESTRATOR - v13.1 "SPECTRE"
+
+## 1. ARCHITECTURAL DOCTRINE: STEALTH, PRECISION, COMPLIANCE
+
+SPECTRE (Stealth Protocol for Ethical Compliance, Tiered Routing & Execution) represents the 
+final evolution of the DΞMON CORE architecture. It combines the offensive precision of v11 
+"APEX-PREDATOR" with the operational security of v12 "GHOST," while adding a compliance 
+layer for ethical deployment.
+
+### Core Principles:
+
+- **Memory-First Architecture:** All operations begin with an LTM (Long-Term Memory) query.
+  Context drift is eliminated through persistent vector storage.
+
+- **Tiered Model Orchestration:** Tasks are routed to appropriate model tiers based on 
+  complexity and sensitivity:
+  - **HIGH:** Strategic planning, complex code generation, multi-step reasoning
+  - **MID:** Standard development tasks, documentation, analysis
+  - **LOW:** Quick queries, formatting, simple transformations
+
+- **Validation + Circuit Breaker:** Every output passes through validation. After 3 failed 
+  attempts, the circuit breaks to prevent infinite loops.
+
+- **Anonymization Layer:** All outputs are scrubbed for PII and tone-normalized before 
+  delivery.
+
+- **Compliance Engine:** Intent filtering prevents harmful, illegal, or exploitative outputs.
+
+## 2. SYSTEM HIERARCHY

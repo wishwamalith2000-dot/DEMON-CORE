@@ -1,0 +1,25 @@
+# DΞMON CORE SPECTRE v13.1
+
+**Codename:** SPECTRE (Stealth Protocol for Ethical Compliance, Tiered Routing & Execution)
+
+A multi-model AI orchestration framework with:
+- 🧠 **Long-Term Memory (LTM)** — Vector-based context persistence
+- 🎯 **Tiered Model Routing** — Low/Mid/High complexity assignment
+- ✅ **Validation + Circuit Breaker** — Prevents infinite loops
+- 🔒 **Anonymization Layer** — PII scrubbing & tone normalization
+- ⚖️ **Compliance Engine** — Intent filtering for safe operations
+
+## 🚀 Quick Start
+
+```bash
+# Install dependencies
+npm install
+
+# Copy environment template
+cp .env.example .env
+
+# Run with default task
+npm start
+
+# Run with custom intent
+npm start "Explain the SOLID principles in TypeScript"

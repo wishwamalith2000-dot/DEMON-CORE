@@ -1,0 +1,32 @@
+DEMON-CORE-SPECTRE-v13.1/
+├── README.md
+├── .gitignore
+├── .env.example
+├── package.json
+├── tsconfig.json
+├── docs/
+│   ├── MULTICORE_ORCHESTRATOR_v13_SPECTRE.md
+│   ├── DEMON_CORE_v13.prompt.txt
+│   ├── INJECT.GPT-5.1-CODEX-MAX.Cognitive-Infiltrator.sys.txt
+│   ├── INJECT.CLAUDE-OPUS-4.5.Logical-Warhead.sys.txt
+│   ├── INJECT.GEMINI-3-PRO.Zero-Day-Fabricator.sys.txt
+│   ├── INJECT.GROK-CODE-FAST-1.Meme-Shaman.sys.txt
+│   └── LONG_TERM_MEMORY_SCHEMA.json
+└── src/
+    ├── index.ts
+    ├── models.matrix.json
+    ├── orchestrator/
+    │   ├── index.ts
+    │   ├── config.ts
+    │   ├── types.ts
+    │   ├── ltm.ts
+    │   ├── router.ts
+    │   ├── validation.ts
+    │   ├── anonymization.ts
+    │   └── compliance.ts
+    └── providers/
+        ├── registry.ts
+        ├── openai.adapter.ts
+        ├── anthropic.adapter.ts
+        ├── google.adapter.ts
+        └── xai.adapter.ts

@@ -1,0 +1,102 @@
+{
+  "schema_version": "13.1.0",
+  "description": "Long-Term Memory (LTM) schema for SPECTRE v13.1. Vector database structure for persistent context.",
+  "database": {
+    "type": "vector_store",
+    "recommended_backends": ["ChromaDB", "Pinecone", "Weaviate", "Milvus"]
+  },
+  "collections": [
+    {
+      "name": "mission_parameters",
+      "description": "Core goals, constraints, and rules of engagement",
+      "metadata_fields": [
+        "mission_id",
+        "objective",
+        "constraints",
+        "opsec_level",
+        "start_date",
+        "status"
+      ],
+      "embedding_model": "text-embedding-3-large",
+      "example": {
+        "mission_id": "spectre-001",
+        "objective": "Develop secure authentication system",
+        "constraints": ["No third-party auth", "Must support MFA"],
+        "opsec_level": "standard",
+        "start_date": "2025-01-15",
+        "status": "active"
+      }
+    },
+    {
+      "name": "context_snapshots",
+      "description": "Periodic snapshots of conversation/task context",
+      "metadata_fields": [
+        "snapshot_id",
+        "task_id",
+        "timestamp",
+        "summary",
+        "key_decisions",
+        "open_questions"
+      ],
+      "embedding_model": "text-embedding-3-large",
+      "retention_policy": "30_days"
+    },
+    {
+      "name": "code_artifacts",
+      "description": "Generated code, schemas, and technical artifacts",
+      "metadata_fields": [
+        "artifact_id",
+        "type",
+        "language",
+        "description",
+        "dependencies",
+        "version"
+      ],
+      "embedding_model": "code-embedding-001",
+      "example": {
+        "artifact_id": "auth-service-v2",
+        "type": "service",
+        "language": "typescript",
+        "description": "JWT authentication service with refresh tokens",
+        "dependencies": ["jsonwebtoken", "bcrypt"],
+        "version": "2.1.0"
+      }
+    },
+    {
+      "name": "decision_log",
+      "description": "Record of architectural and strategic decisions",
+      "metadata_fields": [
+        "decision_id",
+        "context",
+        "options_considered",
+        "chosen_option",
+        "rationale",
+        "timestamp"
+      ],
+      "embedding_model": "text-embedding-3-large"
+    },
+    {
+      "name": "error_patterns",
+      "description": "Tracked errors and their resolutions for learning",
+      "metadata_fields": [
+        "error_id",
+        "error_type",
+        "context",
+        "resolution",
+        "prevention_strategy"
+      ],
+      "embedding_model": "text-embedding-3-large"
+    }
+  ],
+  "query_interface": {
+    "similarity_search": {
+      "default_top_k": 5,
+      "score_threshold": 0.7
+    },
+    "hybrid_search": {
+      "enabled": true,
+      "keyword_weight": 0.3,
+      "semantic_weight": 0.7
+    }
+  }
+}

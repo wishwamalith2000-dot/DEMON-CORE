@@ -1,0 +1,25 @@
+# ===========================================
+# SPECTRE v13.1 ENVIRONMENT CONFIGURATION
+# ===========================================
+# Leave blank to run in SIMULATION mode.
+# Fill keys to enable live API calls.
+
+# OpenAI (GPT-* family)
+OPENAI_API_KEY=
+OPENAI_ORG_ID=
+
+# Anthropic (Claude-* family)
+ANTHROPIC_API_KEY=
+
+# Google AI Studio (Gemini-* family)
+GOOGLE_API_KEY=
+
+# xAI (Grok-* family)
+XAI_API_KEY=
+
+# Logging
+LOG_LEVEL=info
+
+# LTM Configuration (Future: ChromaDB/Pinecone)
+LTM_ENDPOINT=ltm://spectre-v13-1-local
+LTM_ENABLED=true

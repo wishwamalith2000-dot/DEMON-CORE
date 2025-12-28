@@ -1,0 +1,50 @@
+{
+  "name": "demon-core-spectre",
+  "version": "13.1.0",
+  "description": "Multi-model AI orchestrator with tiered routing, validation, and compliance",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "dev": "ts-node-dev --respawn src/index.ts",
+    "lint": "eslint src/**/*.ts",
+    "test": "jest",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "ai",
+    "orchestrator",
+    "multi-model",
+    "llm",
+    "gpt",
+    "claude",
+    "gemini"
+  ],
+  "author": "SPECTRE",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": ".4.5",
+    "openai": ".52.0",
+    "@anthropic-ai/sdk": "^^.24.0",
+    "@google/generative-ai": "^^.12.0",
+    "pino": ".2.0",
+    "zod": ".23.8",
+    "uuid": ".0.0"
+  },
+  "devDependencies": {
+    "@types/node": ".14.0",
+    "@types/uuid": ".0.0",
+    "typescript": ".5.0",
+    "ts-node": ".9.2",
+    "ts-node-dev": ".0.0",
+    "eslint": ".5.0",
+    "@typescript-eslint/parser": ".13.0",
+    "@typescript-eslint/eslint-plugin": ".13.0",
+    "jest": ".7.0",
+    "@types/jest": ".5.12",
+    "ts-jest": ".1.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
