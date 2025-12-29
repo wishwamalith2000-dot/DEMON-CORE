@@ -113,11 +113,20 @@ class G3MandateIntegration:
         """Validate configuration parameters"""
         logger.info("Validating configuration...")
         
-        required_fields = ['profile_id', 'version', 'operational_mode']
+        # Check top-level required fields
+        required_fields = ['profile_id', 'version']
         for field in required_fields:
             if field not in self.config:
                 logger.error(f"Missing required field: {field}")
                 return False
+        
+        # Check for operational_mode in nested structure or top-level
+        operational_mode = self.config.get('operational_mode') or \
+                          (self.config.get('core_configuration', {}).get('operational_mode'))
+        
+        if not operational_mode:
+            logger.error("Missing required field: operational_mode")
+            return False
         
         logger.info("Configuration validation: PASSED")
         return True
