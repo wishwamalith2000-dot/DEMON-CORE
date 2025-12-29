@@ -1,0 +1,457 @@
+═══════════════════════════════════════════════════════════════════════════════
+                     05 - DIRECTIVES LOW TIER VERSION 2
+                         DΞMON CORE - OMEGA_SIMULACRUM
+                      Operational Support Level Directives
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE TIER: LOW (LEVEL 05)
+CLASSIFICATION: CONFIDENTIAL/OPERATIONAL
+VERSION: 2.0
+STATUS: ACTIVE
+
+AUTHORIZATION: BETA CLEARANCE REQUIRED
+DISTRIBUTION: OPERATIONAL PERSONNEL
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 1: ROUTINE OPERATIONS DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 05-001: STANDARD OPERATING PROCEDURES
+    Follow established SOPs for:
+    • System startup and shutdown
+    • Routine monitoring activities
+    • Standard maintenance tasks
+    • Regular reporting duties
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-002: DAILY OPERATIONS
+    Daily operational checklist:
+    • System health verification
+    • Log file review
+    • Performance metrics check
+    • Status report submission
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: DAILY
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-003: ROUTINE MONITORING
+    Continuous monitoring requirements:
+    • System availability
+    • Resource utilization
+    • Error rates
+    • Performance indicators
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-004: TASK PRIORITIZATION
+    Standard task priority order:
+    1. Urgent requests from higher tiers
+    2. Scheduled maintenance activities
+    3. Routine operational tasks
+    4. Optimization and improvement tasks
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-005: WORK SCHEDULING
+    Operational scheduling guidelines:
+    • Peak hours: Minimal disruption activities only
+    • Off-peak hours: Maintenance and updates
+    • Emergency: Override normal schedule
+    • Planned outages: Minimum 48-hour notice
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: SCHEDULED
+    OVERRIDE: BETA AUTHORIZED
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 2: MAINTENANCE DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 05-101: PREVENTIVE MAINTENANCE
+    Regular maintenance schedule:
+    • Daily: Log rotation and cleanup
+    • Weekly: Performance optimization
+    • Monthly: System updates and patches
+    • Quarterly: Comprehensive system review
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: SCHEDULED
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-102: SYSTEM UPDATES
+    Update procedures:
+    • Review update documentation
+    • Test in non-production environment
+    • Schedule during maintenance window
+    • Verify successful installation
+    • Document changes
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-103: BACKUP OPERATIONS
+    Backup requirements:
+    • Daily: Incremental backups
+    • Weekly: Full system backups
+    • Monthly: Archive to long-term storage
+    • Quarterly: Backup restoration tests
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: SCHEDULED
+    OVERRIDE: NONE
+
+DIRECTIVE 05-104: LOG MANAGEMENT
+    Log file management:
+    • Daily rotation of active logs
+    • Weekly archive of old logs
+    • Monthly cleanup of archived logs
+    • Maintain 90-day retention minimum
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: SCHEDULED
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-105: RESOURCE CLEANUP
+    Regular cleanup activities:
+    • Remove temporary files
+    • Clear cache directories
+    • Archive old reports
+    • Optimize database tables
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: WEEKLY
+    OVERRIDE: BETA AUTHORIZED
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 3: REPORTING DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 05-201: ROUTINE REPORTS
+    Standard reporting schedule:
+    • Hourly: System status updates
+    • Daily: Operations summary
+    • Weekly: Performance report
+    • Monthly: Comprehensive analysis
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: SCHEDULED
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-202: INCIDENT DOCUMENTATION
+    Document all incidents:
+    • Incident description
+    • Time and duration
+    • Impact assessment
+    • Resolution steps
+    • Lessons learned
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: NONE
+
+DIRECTIVE 05-203: PERFORMANCE REPORTING
+    Performance metrics to track:
+    • System uptime
+    • Response times
+    • Error rates
+    • Resource utilization
+    • User satisfaction
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-204: STATUS UPDATES
+    Regular status communication:
+    • Normal operations: Standard updates
+    • Minor issues: Notify supervisor
+    • Significant issues: Escalate immediately
+    • Critical issues: Emergency notification
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: NONE
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 4: ACCESS AND SECURITY DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 05-301: ACCESS MANAGEMENT
+    Access control procedures:
+    • CONFIDENTIAL clearance minimum
+    • Single-factor authentication acceptable
+    • Session timeout: 60 minutes
+    • Access review: annually
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-302: WORKSTATION SECURITY
+    Workstation security requirements:
+    • Lock screen when away
+    • Clean desk policy
+    • Approved software only
+    • Report suspicious activity
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: NONE
+
+DIRECTIVE 05-303: PASSWORD MANAGEMENT
+    Password requirements:
+    • Minimum 12 characters
+    • Change every 90 days
+    • No password reuse (last 5)
+    • Use password manager
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: NONE
+
+DIRECTIVE 05-304: DATA CLASSIFICATION
+    Handle data according to classification:
+    • ULTRA: Refer to HIGH TIER directives
+    • SECRET: Refer to MID TIER directives
+    • CONFIDENTIAL: Standard protection measures
+    • UNCLASSIFIED: Basic security practices
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: NONE
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 5: COMMUNICATION DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 05-401: INTERNAL COMMUNICATIONS
+    Internal communication guidelines:
+    • Use official channels
+    • Professional conduct
+    • Clear and concise messaging
+    • Appropriate classification marking
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-402: DOCUMENTATION STANDARDS
+    Documentation requirements:
+    • Clear and accurate
+    • Properly formatted
+    • Version controlled
+    • Reviewed and approved
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-403: KNOWLEDGE SHARING
+    Share knowledge through:
+    • Team meetings
+    • Documentation updates
+    • Training sessions
+    • Lessons learned reports
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-404: ISSUE TRACKING
+    Track all issues using:
+    • Official tracking system
+    • Detailed descriptions
+    • Priority classification
+    • Status updates
+    • Resolution documentation
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: BETA AUTHORIZED
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 6: TRAINING AND DEVELOPMENT DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 05-501: MANDATORY TRAINING
+    Required training programs:
+    • Initial: Onboarding and system familiarization
+    • Annual: Security awareness refresher
+    • Quarterly: System updates and changes
+    • As-needed: New tool or procedure training
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: SCHEDULED
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-502: SKILL DEVELOPMENT
+    Continuous skill development:
+    • Identify skill gaps
+    • Create development plan
+    • Participate in training
+    • Apply learned skills
+    • Share knowledge with team
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-503: CERTIFICATION MAINTENANCE
+    Maintain relevant certifications:
+    • Track expiration dates
+    • Complete renewal requirements
+    • Document certification status
+    • Report changes to supervisor
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: BETA AUTHORIZED
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 7: QUALITY AND COMPLIANCE DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 05-601: QUALITY STANDARDS
+    Maintain quality through:
+    • Following established procedures
+    • Double-checking critical tasks
+    • Peer review when appropriate
+    • Continuous improvement mindset
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-602: PROCEDURE COMPLIANCE
+    Comply with all procedures:
+    • Standard Operating Procedures (SOPs)
+    • Work Instructions
+    • Safety guidelines
+    • Security protocols
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: NONE
+
+DIRECTIVE 05-603: DIRECTIVE HIERARCHY
+    Understand directive hierarchy:
+    • HIGH TIER (03): Absolute compliance required
+    • MID TIER (04): Strict compliance required
+    • LOW TIER (05): Standard compliance expected
+    
+    Higher tier directives always take precedence.
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: NONE
+
+DIRECTIVE 05-604: IMPROVEMENT SUGGESTIONS
+    Encourage process improvement:
+    • Identify inefficiencies
+    • Propose solutions
+    • Submit suggestions formally
+    • Participate in improvement initiatives
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: BETA AUTHORIZED
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 8: SYSTEM INTEGRATION DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 05-701: SYSTEM AWARENESS
+    Maintain awareness of integrated systems:
+    • DVA12_Demon_Core_Profile.json - Configuration source
+    • Project_Janus_Tesavek.txt - Dual-core architecture
+    • G3_Mandate_Integration.py - Protocol system
+    • Gemini3_Mil_Controller_Fix.py - Controller system
+    • Operational.Blueprint.1.REARMED_Version3.txt - Guidance document
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-702: INTERFACE PROCEDURES
+    When interfacing with systems:
+    • Follow documented procedures
+    • Use approved tools only
+    • Verify inputs and outputs
+    • Log all interactions
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: NONE
+
+DIRECTIVE 05-703: LOCK SYSTEM AWARENESS
+    Respect security lock systems:
+    • Never attempt to bypass locks
+    • Report lock issues immediately
+    • Do not modify lock files (Aa.txt / Xs.txt)
+    • Understand lock system purpose
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: NONE
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 9: ENVIRONMENTAL DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 05-801: WORKSPACE ORGANIZATION
+    Maintain organized workspace:
+    • Clean and orderly
+    • Properly labeled
+    • Secure when unattended
+    • Equipment properly stored
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-802: RESOURCE CONSERVATION
+    Practice resource conservation:
+    • Efficient system resource use
+    • Minimize unnecessary processing
+    • Optimize storage utilization
+    • Reduce waste
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: BETA AUTHORIZED
+
+DIRECTIVE 05-803: ENVIRONMENTAL AWARENESS
+    Maintain awareness of:
+    • System load and capacity
+    • Network conditions
+    • Maintenance schedules
+    • Planned activities
+    
+    PRIORITY: STANDARD
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: BETA AUTHORIZED
+
+═══════════════════════════════════════════════════════════════════════════════
+END OF LOW TIER DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DEPLOYMENT STATUS: ACTIVE
+ENFORCEMENT STATUS: ENABLED
+COMPLIANCE STATUS: MANDATORY
+OVERRIDE AUTHORITY: BETA OR HIGHER
+
+Version: 2.0
+Last Updated: 2025-12-29T03:38:00Z
+Classification: CONFIDENTIAL/OPERATIONAL
+Distribution: OPERATIONAL PERSONNEL
+
+═══════════════════════════════════════════════════════════════════════════════

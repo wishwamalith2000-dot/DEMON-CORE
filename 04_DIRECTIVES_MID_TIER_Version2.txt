@@ -1,0 +1,372 @@
+═══════════════════════════════════════════════════════════════════════════════
+                     04 - DIRECTIVES MID TIER VERSION 2
+                         DΞMON CORE - OMEGA_SIMULACRUM
+                        Tactical Execution Level Directives
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE TIER: MID (LEVEL 04)
+CLASSIFICATION: SECRET/TACTICAL
+VERSION: 2.0
+STATUS: ACTIVE
+
+AUTHORIZATION: ALPHA CLEARANCE REQUIRED
+DISTRIBUTION: TACTICAL COMMAND PERSONNEL
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 1: TACTICAL EXECUTION DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 04-001: TACTICAL OPERATION STANDARDS
+    All tactical operations must:
+    • Align with strategic objectives (HIGH TIER directives)
+    • Maintain operational security at all times
+    • Document all significant actions
+    • Report status updates per schedule
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: ALPHA AUTHORIZED
+
+DIRECTIVE 04-002: RESPONSE TIME REQUIREMENTS
+    Tactical response times:
+    • CRITICAL threats: <10 seconds
+    • HIGH threats: <60 seconds
+    • MEDIUM threats: <5 minutes
+    • LOW threats: <30 minutes
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: AUTOMATIC
+    OVERRIDE: ALPHA AUTHORIZED
+
+DIRECTIVE 04-003: RESOURCE MANAGEMENT
+    Tactical resource allocation:
+    • Priority 1 (CRITICAL): Unlimited access
+    • Priority 2 (HIGH): Priority allocation
+    • Priority 3 (STANDARD): Normal allocation
+    • Priority 4 (LOW): Available resources only
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: AUTOMATIC
+    OVERRIDE: ALPHA AUTHORIZED
+
+DIRECTIVE 04-004: COORDINATION PROTOCOLS
+    Tactical coordination requires:
+    • Regular sync with GEMINI3 Controller
+    • Status updates to G3 Mandate system
+    • Integration with Project Janus dual-cores
+    • Compliance with Operational Blueprint
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: ALPHA AUTHORIZED
+
+DIRECTIVE 04-005: TACTICAL DECISION AUTHORITY
+    Tactical decisions within scope:
+    • Resource allocation (within limits)
+    • Response method selection
+    • Team coordination
+    • Priority adjustment (non-critical)
+    
+    Escalation required for strategic decisions.
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: AUTOMATIC
+    OVERRIDE: NONE
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 2: OPERATIONAL SECURITY DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 04-101: TACTICAL SECURITY POSTURE
+    Maintain tactical security through:
+    • Encrypted communications
+    • Access control enforcement
+    • Activity monitoring
+    • Threat detection and response
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: ALPHA AUTHORIZED
+
+DIRECTIVE 04-102: THREAT ASSESSMENT
+    All tactical operations require:
+    • Pre-operation threat assessment
+    • Continuous monitoring during operation
+    • Post-operation analysis
+    • Lessons learned documentation
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: ALPHA AUTHORIZED
+
+DIRECTIVE 04-103: INCIDENT HANDLING
+    Tactical incident response:
+    [T+0s]   Incident detection and classification
+    [T+30s]  Initial containment measures
+    [T+60s]  Impact assessment
+    [T+120s] Full response deployment
+    [T+300s] Status report to strategic command
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: AUTOMATIC
+    OVERRIDE: NONE
+
+DIRECTIVE 04-104: DATA HANDLING
+    Tactical data management:
+    • Classification marking mandatory
+    • Encryption in transit and at rest
+    • Access logging required
+    • Secure disposal protocols
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: NONE
+
+DIRECTIVE 04-105: AUTHENTICATION REQUIREMENTS
+    Tactical system access requires:
+    • SECRET clearance minimum
+    • Two-factor authentication
+    • Session timeout: 30 minutes inactive
+    • Access review: quarterly
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: ALPHA AUTHORIZED
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 3: PERFORMANCE DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 04-201: OPERATIONAL METRICS
+    Monitor and maintain:
+    • Operation success rate: >90%
+    • Response time compliance: >95%
+    • System availability: >99.9%
+    • Resource efficiency: >80%
+    
+    PRIORITY: MEDIUM
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: ALPHA AUTHORIZED
+
+DIRECTIVE 04-202: QUALITY ASSURANCE
+    Tactical operations quality standards:
+    • Pre-operation validation
+    • In-operation monitoring
+    • Post-operation verification
+    • Quality metrics reporting
+    
+    PRIORITY: MEDIUM
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: ALPHA AUTHORIZED
+
+DIRECTIVE 04-203: OPTIMIZATION PROTOCOLS
+    Continuous improvement requirements:
+    • Daily performance review
+    • Weekly optimization analysis
+    • Monthly capability assessment
+    • Quarterly training updates
+    
+    PRIORITY: MEDIUM
+    ENFORCEMENT: SCHEDULED
+    OVERRIDE: ALPHA AUTHORIZED
+
+DIRECTIVE 04-204: ERROR HANDLING
+    Error management protocols:
+    • Immediate error detection and logging
+    • Automated recovery attempts
+    • Manual intervention if automated fails
+    • Root cause analysis for recurring errors
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: AUTOMATIC
+    OVERRIDE: NONE
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 4: COMMUNICATION DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 04-301: STATUS REPORTING
+    Regular status reports required:
+    • Real-time: Critical events
+    • Hourly: Operations summary
+    • Daily: Full status report
+    • Weekly: Performance analysis
+    
+    PRIORITY: MEDIUM
+    ENFORCEMENT: SCHEDULED
+    OVERRIDE: ALPHA AUTHORIZED
+
+DIRECTIVE 04-302: ESCALATION PROCEDURES
+    Escalation thresholds:
+    • Strategic impact: Immediate escalation to OMEGA
+    • Mission-critical: Escalate to ALPHA within 5 minutes
+    • High priority: Escalate to ALPHA within 30 minutes
+    • Standard issues: Normal reporting channels
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: AUTOMATIC
+    OVERRIDE: NONE
+
+DIRECTIVE 04-303: COMMUNICATION SECURITY
+    All tactical communications:
+    • Use encrypted channels only
+    • Verify recipient identity
+    • Classification marking required
+    • No sensitive data over unsecured channels
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: NONE
+
+DIRECTIVE 04-304: INFORMATION SHARING
+    Information sharing protocols:
+    • Need-to-know basis only
+    • Proper classification handling
+    • Authorized recipients only
+    • Distribution tracking required
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: ALPHA AUTHORIZED
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 5: INTEGRATION DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 04-401: SYSTEM COORDINATION
+    Tactical systems must coordinate with:
+    • GEMINI3_Mil_Controller_Fix.py - Real-time sync
+    • G3_Mandate_Integration.py - Protocol compliance
+    • Project_Janus_Tesavek.txt - Dual-core processing
+    • Operational.Blueprint.1.REARMED_Version3.txt - Tactical guidance
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: ALPHA AUTHORIZED
+
+DIRECTIVE 04-402: DIRECTIVE COMPLIANCE
+    Compliance with directive hierarchy:
+    • HIGH TIER directives: Absolute compliance
+    • MID TIER directives: Mandatory compliance
+    • LOW TIER directives: Standard compliance
+    
+    Report conflicts to strategic command.
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: NONE
+
+DIRECTIVE 04-403: OPERATIONAL BLUEPRINT ADHERENCE
+    Follow Operational Blueprint phases:
+    • ALPHA (Reconnaissance): Thorough execution
+    • BETA (Preparation): Complete readiness
+    • GAMMA (Engagement): Precise execution
+    • DELTA (Consolidation): Secure position
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: ALPHA AUTHORIZED
+
+DIRECTIVE 04-404: LOCK SYSTEM RESPECT
+    Never attempt to:
+    • Bypass lock systems (Aa.txt / Xs.txt)
+    • Modify lock configurations
+    • Disable tamper detection
+    • Override lock protocols
+    
+    Report lock issues to strategic command immediately.
+    
+    PRIORITY: CRITICAL
+    ENFORCEMENT: AUTOMATIC
+    OVERRIDE: NONE
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 6: TRAINING AND READINESS DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 04-501: PERSONNEL READINESS
+    Tactical personnel must maintain:
+    • Current security clearance
+    • Up-to-date system training
+    • Proficiency certifications
+    • Emergency procedure knowledge
+    
+    PRIORITY: MEDIUM
+    ENFORCEMENT: QUARTERLY
+    OVERRIDE: ALPHA AUTHORIZED
+
+DIRECTIVE 04-502: EXERCISE PARTICIPATION
+    Regular exercises required:
+    • Weekly: Tactical drills
+    • Monthly: Scenario-based training
+    • Quarterly: Full-scale exercises
+    • Annual: Capability assessment
+    
+    PRIORITY: MEDIUM
+    ENFORCEMENT: SCHEDULED
+    OVERRIDE: ALPHA AUTHORIZED
+
+DIRECTIVE 04-503: KNOWLEDGE MANAGEMENT
+    Maintain operational knowledge:
+    • Document lessons learned
+    • Share best practices
+    • Update procedures regularly
+    • Conduct knowledge transfer sessions
+    
+    PRIORITY: MEDIUM
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: ALPHA AUTHORIZED
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 7: CONTINGENCY DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DIRECTIVE 04-601: BACKUP PROCEDURES
+    Maintain tactical backup capabilities:
+    • Redundant systems ready
+    • Alternate communication channels
+    • Emergency resource access
+    • Contingency plan activation
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: CONTINUOUS
+    OVERRIDE: NONE
+
+DIRECTIVE 04-602: DEGRADED OPERATIONS
+    During degraded operations:
+    • Maintain mission-critical functions
+    • Escalate to strategic command
+    • Implement workaround procedures
+    • Document all deviations
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: AUTOMATIC
+    OVERRIDE: NONE
+
+DIRECTIVE 04-603: RECOVERY OPERATIONS
+    System recovery procedures:
+    • Assess damage and capability
+    • Prioritize critical systems
+    • Execute recovery plan
+    • Verify restored functionality
+    • Document recovery process
+    
+    PRIORITY: HIGH
+    ENFORCEMENT: MANDATORY
+    OVERRIDE: ALPHA AUTHORIZED
+
+═══════════════════════════════════════════════════════════════════════════════
+END OF MID TIER DIRECTIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+DEPLOYMENT STATUS: ACTIVE
+ENFORCEMENT STATUS: ENABLED
+COMPLIANCE STATUS: MANDATORY
+OVERRIDE AUTHORITY: ALPHA OR HIGHER
+
+Version: 2.0
+Last Updated: 2025-12-29T03:38:00Z
+Classification: SECRET/TACTICAL
+Distribution: TACTICAL COMMAND PERSONNEL
+
+═══════════════════════════════════════════════════════════════════════════════
