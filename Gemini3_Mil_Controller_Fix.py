@@ -334,7 +334,7 @@ class Gemini3MilController:
                         if self.config['auto_recovery_enabled']:
                             self._auto_recovery()
                     
-                    # Calculate accuracy
+                    # Calculate accuracy (avoid division by zero)
                     if self.metrics.processed_operations > 0:
                         error_rate = self.metrics.errors_count / self.metrics.processed_operations
                         self.metrics.accuracy = 1.0 - error_rate
@@ -360,12 +360,12 @@ class Gemini3MilController:
     
     def _synchronize_with_g3_mandate(self):
         """Synchronize with G3 Mandate system"""
-        # Enhanced sync protocol
+        # TODO: Implement enhanced sync protocol with G3 Mandate
         pass
     
     def _synchronize_with_janus(self):
         """Synchronize with Project Janus Tesavek"""
-        # Enhanced sync protocol
+        # TODO: Implement enhanced sync protocol with Project Janus
         pass
     
     def _auto_recovery(self):
