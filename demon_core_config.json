@@ -1,6 +1,6 @@
 {
   "profile_id": "DEMON_CORE",
-  "version": "1.0.0",
+  "version": "13.0.0",
   "classification": "ULTRA",
   "deployment_status": "ACTIVE",
   
@@ -91,7 +91,7 @@
   
   "metadata": {
     "created": "2026-01-04T13:32:00Z",
-    "author": "DEMON_CORE_DEPLOYMENT_TEAM",
+    "author": "OMEGA_SIMULACRUM_DEPLOYMENT_TEAM",
     "license": "CLASSIFIED",
     "documentation": "OBLIVION_MASTER_SYSTEM_INSTRUCTIONS.txt"
   }
