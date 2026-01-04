@@ -47,6 +47,7 @@ class OmegaDeploymentOrchestrator:
     
     # Critical system files as defined in OBLIVION_MASTER_SYSTEM_INSTRUCTIONS.txt
     CRITICAL_FILES = [
+        "demon_core_config.json",
         "Dva12_Demon_Core_Profile.json",
         "G3_Mandate_Integration.py",
         "Gemini3_Mil_Controller_Fix.py",

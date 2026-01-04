@@ -35,7 +35,15 @@ class G3MandateIntegration:
     
     def __init__(self, config_path: Optional[str] = None):
         """Initialize G3 Mandate Integration"""
-        self.config_path = config_path or "Dva12_Demon_Core_Profile.json"
+        # Try demon_core_config.json first, fallback to Dva12_Demon_Core_Profile.json
+        if config_path is None:
+            if Path("demon_core_config.json").exists():
+                self.config_path = "demon_core_config.json"
+            else:
+                self.config_path = "Dva12_Demon_Core_Profile.json"
+        else:
+            self.config_path = config_path
+        
         self.config: Dict[str, Any] = {}
         self.status = "INITIALIZING"
         self.operational_mode = "OMEGA_SIMULACRUM"
